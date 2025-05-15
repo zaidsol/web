@@ -5,7 +5,7 @@ export default function Footer() {
   return (
     <div>
       <div className='flex justify-center '>
-        <img src="/lg.png" alt="Logo" />
+        <image src="/lg.png" alt="Logo" />
       </div>
       <div className="bg-gray-200 text-gray-600  px-4 py-12 flex items-center ">
 
