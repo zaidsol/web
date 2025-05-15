@@ -14,7 +14,7 @@ export default function Arrival() {
       </Head>
       <Navbar />
       <Header />
-      <Products />
+      
       <Footer />
     </div>
   );
