@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "p1.png",
+      "name": "Stylish Jacket",
+      "price": 59.99
+    },
+    {
+      "id": 2,
+      "image": "p2.png",
+      "name": "Casual Sneakers",
+      "price": 89.99
+    },
+    {
+      "id": 3,
+      "image": "p3.png",
+      "name": "Leather Wallet",
+      "price": 29.99
+    },
+    {
+      "id": 4,
+      "image": "p4.png",
+      "name": "Denim Jeans",
+      "price": 49.99
+    },
+    {
+      "id": 5,
+      "image": "p5.png",
+      "name": "Classic Watch",
+      "price": 129.99
+    },
+    {
+      "id": 6,
+      "image": "p6.png",
+      "name": "Backpack",
+      "price": 39.99
+    },
+    {
+      "id": 7,
+      "image": "p7.png",
+      "name": "Sunglasses",
+      "price": 19.99
+    },
+    {
+      "id": 8,
+      "image": "p8.png",
+      "name": "Sports Cap",
+      "price": 14.99
+    }
+  ]
+  

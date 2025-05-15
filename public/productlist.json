@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "image": "./c1.webp",
+    "hoverImage": "./c2.webp",
+    "name": "Classic Suit",
+    "price": "$1200"
+  },
+  {
+    "id": 2,
+    "image": "./c2.webp",
+    "hoverImage": "./c3.webp",
+    "name": "Evening Dress",
+    "price": "$85"
+  },
+  {
+    "id": 3,
+    "image": "./c3.webp",
+    "hoverImage": "./c4.webp",
+    "name": "Formal Suit",
+    "price": "$150"
+  },
+  {
+    "id": 4,
+    "image": "./c4.webp",
+    "hoverImage": "./c1.webp",
+    "name": "Cocktail Dress",
+    "price": "$95"
+  },
+  {
+    "id": 5,
+    "image": "./c1.webp",
+    "hoverImage": "./c3.webp",
+    "name": "Business Suit",
+    "price": "$110"
+  },
+  {
+    "id": 6,
+    "image": "./c2.webp",
+    "hoverImage": "./c4.webp",
+    "name": "Summer Dress",
+    "price": "$70"
+  },
+  {
+    "id": 7,
+    "image": "./c3.webp",
+    "hoverImage": "./c1.webp",
+    "name": "Wedding Suit",
+    "price": "$200"
+  },
+  {
+    "id": 8,
+    "image": "./c4.webp",
+    "hoverImage": "./c2.webp",
+    "name": "Party Dress",
+    "price": "$90"
+  }
+]
