@@ -36,3 +36,4 @@ const Card = ({ image, hoverImage, name, price }: CardProps) => {
 };
 
 export default Card;
+
