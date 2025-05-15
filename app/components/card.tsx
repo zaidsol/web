@@ -9,14 +9,14 @@ const Card = ({ image, hoverImage, name, price }: CardProps) => {
   return (
     <div className="bg-white shadow-md rounded-lg p-4 w-64 relative group">
       
-      <img
+      <image
         src={image}
         alt={name}
         className="w-full h-120 object-cover rounded-t-lg transition-opacity duration-300 group-hover:opacity-0"
       />
       
 
-      <img
+      <image
         src={hoverImage}
         alt={name}
         className="absolute top-0 left-0 w-full h-120 object-cover rounded-t-lg opacity-0 group-hover:opacity-100 transition-opacity duration-300"
