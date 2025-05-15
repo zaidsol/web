@@ -2,7 +2,7 @@ import React from 'react';
 import Head from 'next/head';
 import Navbar from '../components/navbar';
 import Header from '../components/header';
-import Products from '../products/page';
+
 import Footer from '../components/footer';
 
 export default function Arrival() {
