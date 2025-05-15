@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../components/navbar';
 import Footer from '../components/footer'; 
-import { ArrowUp } from 'lucide-react';
+
 
 export default function Slider() {
   const videoSlides = [
@@ -53,7 +53,8 @@ export default function Slider() {
               key={`image-${index}`}
               className="h-screen w-full bg-black snap-start flex items-center justify-center"
             >
-              <img
+              <image
+                alt=""
                 src={src}
                 className="w-full h-full object-cover"
               />
