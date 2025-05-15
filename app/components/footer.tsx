@@ -63,10 +63,10 @@ export default function Footer() {
               </div>
             </div>
             <div className='flex'>
-              <img className='w-15 h-10' src="/icon2.png" alt="icon" />
-              <img className='w-15 h-10' src="/icon1.png" alt="icon" />
-              <img className='w-15 h-10' src="/icon2.png" alt="icon" />
-              <img className='w-15 h-10' src="/icon1.png" alt="icon" />
+              <image className='w-15 h-10' src="/icon2.png" alt="icon" />
+              <image className='w-15 h-10' src="/icon1.png" alt="icon" />
+              <image className='w-15 h-10' src="/icon2.png" alt="icon" />
+              <image className='w-15 h-10' src="/icon1.png" alt="icon" />
             </div>
           </div>
         </div>
